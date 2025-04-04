@@ -1,4 +1,4 @@
-# mod-fe-backend
+# mod-fed-backend
 This is the backend NestJS project for ModuleFederation using MicroFrontends POC. This projects holds the endpoints for login, register, get user info and update favorites
 
 ## Run the project
